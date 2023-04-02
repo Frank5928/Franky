@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frank5928
-- 👀 I’m interested in videoGame development
-- 🌱 I’m currently learning the C# language and Unity
+- 👀 I’m interested in videoGame development and Web development 
+- 🌱 I’m currently learning the front-end language and Unity graphics engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
