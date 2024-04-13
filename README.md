@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frank5928
+- 👋 Hi, I’m @Franky
 - 👀 I’m interested in videoGame development and Web development 
 - 🌱 I’m currently learning the front-end language and Unity graphics engine
 - 💞️ I’m looking to collaborate on ...
